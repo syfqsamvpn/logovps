@@ -1,7 +1,3 @@
-```
-echo "clear" > .profile
-```
+```echo "clear" > .profile```
 
-```
-echo "neofetch --ascii_distro Anarchy" >> .profile
-```
+```echo "neofetch --ascii_distro Anarchy" >> .profile```
